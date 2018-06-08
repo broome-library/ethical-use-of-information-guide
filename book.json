@@ -1,0 +1,10 @@
+{
+    "description": "A guide to the ethical use of information in research",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"ethical-info-use",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
+    }
+}
