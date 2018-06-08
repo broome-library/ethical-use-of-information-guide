@@ -1,12 +1,7 @@
 # Summary
-* [Books](books.md)
+* [Ethical Information Use](ethical-info-use.md)
+* [Plagiarism](plagiarism.md)
 * [Citing](citing.md)
-* [Databases](databases.md)
-* [Evaluating Internet Sources](internet-src.md)
-
-* [Peer-reviewed](peer-review.md)
-* [Web Resources](web.md)
-
 * [Need Help?](contact.md)
 
 ---
