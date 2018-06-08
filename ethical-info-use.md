@@ -45,8 +45,8 @@ Fair Use is a clause in copyright law that allows non-profit educational insitit
 
 Additional information can be found in these excellent tutorials
 
-* [Copyright Crash Course](https://web.archive.org/web/20170904234809/http:/www.lib.utsystem.edu/copyright/) (University of Texas)
-* [Copyright 101](https://web.archive.org/web/20170904234809/http:/lib.byu.edu/sites/copyright/about-copyright/tutorial/) (Bringham Young University)
+* [Copyright Crash Course](http:/www.lib.utsystem.edu/copyright/) (University of Texas)
+* [Copyright 101](http:/lib.byu.edu/sites/copyright/about-copyright/tutorial/) (Bringham Young University)
 
 ## Fair Use
  
@@ -61,15 +61,15 @@ The following are __not__ covered by the Fair Use doctrine:
 * making copies of textbooks or disposable worksheets
 * distributing copyrighted materials to others
 
-[Read More about Fair Use](https://web.archive.org/web/20170606022607/http:/alacarte.library.csuci.edu:80/subject-guide/55-Ethical-Use-of-Information?tab=290)
+[Read More about Fair Use](http:/alacarte.library.csuci.edu:80/subject-guide/55-Ethical-Use-of-Information?tab=290)
 
 ## Public Domain
 
 ### What is 'Public Domain'?
 
-Wikipedia has an excellent entry which explains the concept of [public domain](https://web.archive.org/web/20170606023344/http:/en.wikipedia.org/wiki/Public_domain).  Basically ideas, information, and works enter the public domain and can be freely used when they are no longer covered as intellectual property by copyright law.
+Wikipedia has an excellent entry which explains the concept of [public domain](http:/en.wikipedia.org/wiki/Public_domain).  Basically ideas, information, and works enter the public domain and can be freely used when they are no longer covered as intellectual property by copyright law.
 
-The American Library Association presents a handy tool – [Digital Copyright Slider](https://web.archive.org/web/20170606023344/http:/librarycopyright.net/resources/digitalslider/) -- to help determine if something is covered by copyright law.
+The American Library Association presents a handy tool – [Digital Copyright Slider](http:/librarycopyright.net/resources/digitalslider/) -- to help determine if something is covered by copyright law.
 
-Cornell University provides extensive information on [Copyright Term and the Public Domain](https://web.archive.org/web/20170606023344/http:/copyright.cornell.edu/resources/publicdomain.cfm).
+Cornell University provides extensive information on [Copyright Term and the Public Domain](http:/copyright.cornell.edu/resources/publicdomain.cfm).
 

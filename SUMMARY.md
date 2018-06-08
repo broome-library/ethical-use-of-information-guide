@@ -1,5 +1,5 @@
 # Summary
-* [Ethical Information Use](ethical-info-use.md)
+* [Ethical Use of Information](ethical-info-use.md)
 * [Plagiarism](plagiarism.md)
 * [Citing](citing.md)
 * [Need Help?](contact.md)
