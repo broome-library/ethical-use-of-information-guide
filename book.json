@@ -3,7 +3,7 @@
     "structure":{
         "readme":"intro.md"
     },
-    "title":"ethical-info-use",
+    "title":"ethical use of information",
     "variables": {
         "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
     }
