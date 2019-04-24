@@ -1,12 +1,13 @@
 # Ethical Use of Information
 
 ## What is 'ethics'?
+
 > 1. Moral principles that govern a person's or group's behavior.
 > 2. The moral correctness of specified conduct.
 
 ## Using someone else's work
 
-> Any time someone else's work is used, it is ethical to give credit to the original creator.  This takes the form of a citation which indicates who the original creator is and where the item was found.
+> Any time someone else's work is used, it is ethical to give credit to the original creator.  This takes the form of a citation which indicates who the original creator is and where the item was found.  
 > When using someone else's work in your own without giving credit, you are essentially indicating that you created it.  This is called plagiarism.
 
 [Read More about Plagiarism](plagiarism.md)
@@ -14,19 +15,19 @@
 ## Using Media
 
 > Media such as photographs, video, and sound are all protected by copyright -- even when available 'freely' on the Internet.
-
+>
 > The Center for Social Media has gathered [Best Practices](http:/centerforsocialmedia.org/fair-use) for using media in your work.
-
-> Need help with using media in your course?  Check out this resource:
-[Interactive Guide to Using Copyrighted Media in Your Course](http:/www.baruch.cuny.edu/tutorials/copyright/) (Baruch College)
+>
+> Need help with using media in your course?  Check out this resource:  
+> [Interactive Guide to Using Copyrighted Media in Your Course](http:/www.baruch.cuny.edu/tutorials/copyright/) \(Baruch College\)
 
 ## Copyright
 
 ### What is Copyrighted
 
-Imagine that you've written a book or a piece of music or crafted an original digital image. 
+Imagine that you've written a book or a piece of music or crafted an original digital image.
 
-As soon as it is in tangible form -- which may include anything written on paper, saved to disk (web pages, graphics on the web, email messages or computer programs), or saved on any audio/video device -- your creation is covered by copyright law and is your intellectual property.
+As soon as it is in tangible form -- which may include anything written on paper, saved to disk \(web pages, graphics on the web, email messages or computer programs\), or saved on any audio/video device -- your creation is covered by copyright law and is your intellectual property.
 
 ### What Does Copyright Protect
 
@@ -39,25 +40,28 @@ Copyright law says that copyright holders ONLY may do the following things with 
 * display the copyrighted work publicly
 * in the case of sound recordings, to perform the work publicly by means of digital audio transmission
 * in the case of a “work of visual art” the author has certain rights of attribution and integrity
-Fair Use is a clause in copyright law that allows non-profit educational insititutions and libraries the ability to do the above things with someone else's copyrighted work, within specific guidelines.
+  Fair Use is a clause in copyright law that allows non-profit educational insititutions and libraries the ability to do the above things with someone else's copyrighted work, within specific guidelines.
 
 ### Copyright Tutorials
 
 Additional information can be found in these excellent tutorials
 
-* [Copyright Crash Course](http:/www.lib.utsystem.edu/copyright/) (University of Texas)
-* [Copyright 101](http:/lib.byu.edu/sites/copyright/about-copyright/tutorial/) (Bringham Young University)
+* [Copyright Crash Course](http:/www.lib.utsystem.edu/copyright/) \(University of Texas\)
+* [Copyright 101](http:/lib.byu.edu/sites/copyright/about-copyright/tutorial/) \(Bringham Young University\)
 
 ## Fair Use
- 
+
 ### Learn about Fair Use
-Students at non-profit, public educational institutions can make use of the educational Fair Use doctrine written into copyright law. Examples of fair use include commentary, criticism, news reporting, research, and scholarship. 
+
+Students at non-profit, public educational institutions can make use of the educational Fair Use doctrine written into copyright law. Examples of fair use include commentary, criticism, news reporting, research, and scholarship.
 
 The Fair Use doctrine generally allows students to:
-* __make one copy__ of a copyrighted work (i.e., article, book chapter, etc.) for your own research / educational needs 
-* use a __small, limited quantity__ of the copyrighted material in your own work without having to request permission or pay a licensing fee, however citing the original creator is expected.
 
-The following are __not__ covered by the Fair Use doctrine:
+* **make one copy** of a copyrighted work \(i.e., article, book chapter, etc.\) for your own research / educational needs 
+* use a **small, limited quantity** of the copyrighted material in your own work without having to request permission or pay a licensing fee, however citing the original creator is expected.
+
+The following are **not** covered by the Fair Use doctrine:
+
 * making copies of textbooks or disposable worksheets
 * distributing copyrighted materials to others
 
